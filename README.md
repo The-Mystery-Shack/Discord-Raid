@@ -2,6 +2,8 @@
 
 this software allows you to destroy discord servers, configure your bot or other. It is still in version 1.0, do not hesitate to add me additions etc! P.S I am not responsible for your actions. A big thanx to [**Zellidev**](http://github.com/Zellidev)<br> for helped me ! 
 
+Direct download [**here**](http://github.com/Stanley-GF/Discord-Raider/releases)<br> for helped me ! 
+
 # Features 
 
 - Unban all (comming soon)
