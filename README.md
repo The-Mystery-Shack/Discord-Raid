@@ -1,4 +1,4 @@
-# ![Markdown Here logo](https://cdn.discordapp.com/attachments/698652175882125405/726843684083204156/T-3Fo_stan-ConvertImage.png) Stan Raider
+# Stan Raider ![Markdown Here logo](https://cdn.discordapp.com/attachments/698652175882125405/726843684083204156/T-3Fo_stan-ConvertImage.png) Stan Raider
 
 this software allows you to destroy discord servers, configure your bot or other. It is still in version 1.0, do not hesitate to add me additions etc! P.S I am not responsible for your actions. A big thanx to [**Zellidev**](http://github.com/Zellidev)<br> for helped me ! 
 
