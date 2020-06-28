@@ -4,7 +4,7 @@ this software allows you to destroy discord servers, configure your bot or other
 
 Direct download [**here**](https://github.com/Stanley-GF/Discord-Raider/releases/download/1.0/Stan.Raider.zip)<br> 
 
-# Features ![Markdown Here logo1](https://media.discordapp.net/attachments/719998686297587762/726859660501581844/icons8-liste-des-fonctionnalites-100.png)
+# Features ![Markdown Here logo1](https://media.discordapp.net/attachments/719998686297587762/726859867066728584/icons8-liste-des-fonctionnalites-96.png)
 
 - Unban all (comming soon)
 - DMALL
