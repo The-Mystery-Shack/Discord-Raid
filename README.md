@@ -19,7 +19,7 @@ Direct download [**here**](https://github.com/Stanley-GF/Discord-Raider/releases
 - Twitch streaming settings
 - Game settings
 
-# Screenshot
+# Screenshot 📷
 ![Bot login](https://cdn.discordapp.com/attachments/698652175882125405/726844123650457630/unknown.png)
 ![Option List](https://cdn.discordapp.com/attachments/698652175882125405/726844291829334016/unknown.png)
 ![Option List](https://media.discordapp.net/attachments/698652175882125405/726844502454829116/unknown.png?width=222&height=677)
